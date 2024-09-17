@@ -12,8 +12,8 @@ Welcome to the AWS Developer Associate Exam Study Guide! This repository is desi
 ### 📝 Notebooks & ### ❓ Questions and Answers
 
 - **Lambda**: [Link to notes on Lambda](./Notebooks/AWSLambda.pdf)
-- **Lambda Numerics-Based Questions**: [Link to VPC questions](https://lisireddy.medium.com/aws-lambda-numerical-questions-cd640f880009)
-- - **Lambda Scenario-Based Questions**: [Link to VPC questions](https://lisireddy.medium.com/aws-lambda-numerical-questions-cd640f880009](https://lisireddy.medium.com/aws-lambda-scenario-based-questions-86cb7e9207e1)
+- **Lambda Numerics-Based Questions**: [Link to Lambda Numerics questions](https://lisireddy.medium.com/aws-lambda-numerical-questions-cd640f880009)
+- **Lambda Scenario-Based Questions**: [Link to Lambda Scenario questions](https://lisireddy.medium.com/aws-lambda-numerical-questions-cd640f880009](https://lisireddy.medium.com/aws-lambda-scenario-based-questions-86cb7e9207e1)
 
 
 
