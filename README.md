@@ -11,7 +11,7 @@ Welcome to the AWS Developer Associate Exam Study Guide! This repository is desi
 
 ### 📝 Notebooks
 
-- **Lambda**: [Link to notes on AWS VPC](./Notebooks/AWSLambda.pdf)
+- **Lambda**: [Link to notes on Lambda](./Notebooks/AWSLambda.pdf)
 - **EC2**: [Link to notes on EC2](./notes/ec2.md)
 
 ### ❓ Questions and Answers
