@@ -7,47 +7,15 @@ Welcome to the AWS Developer Associate Exam Study Guide! This repository is desi
 
 ### 📝 Notebooks & ❓Q&A
 
-#### AWS Lambda 🚩
-- [Link to notes on Lambda](./Notebooks/AWSLambda.pdf)
-- [Link to Lambda Numerics questions](https://lisireddy.medium.com/aws-lambda-numerical-questions-cd640f880009)
-- [Link to Lambda scenario questions](https://lisireddy.medium.com/aws-lambda-scenario-based-questions-86cb7e9207e1)
+#### 🚩 AWS Lambda 
+- [Link to Notes on Lambda](./Notebooks/AWSLambda.pdf)
+- [Link to Lambda Numerics Questions](https://lisireddy.medium.com/aws-lambda-numerical-questions-cd640f880009)
+- [Link to Lambda Scenario Questions](https://lisireddy.medium.com/aws-lambda-scenario-based-questions-86cb7e9207e1)
 
-#### AWS Dyn 🚩
-- **Lambda**: [Link to notes on Lambda](./Notebooks/AWSLambda.pdf)
-- **Lambda Numerics-Based Questions**: [Link to Lambda Numerics questions](https://lisireddy.medium.com/aws-lambda-numerical-questions-cd640f880009)
-- **Lambda Numerics-Based Questions**: [Link to Lambda scenario questions](https://lisireddy.medium.com/aws-lambda-scenario-based-questions-86cb7e9207e1)
-
-#### AWS Lambda 🚩
-- **Lambda**: [Link to notes on Lambda](./Notebooks/AWSLambda.pdf)
-- **Lambda Numerics-Based Questions**: [Link to Lambda Numerics questions](https://lisireddy.medium.com/aws-lambda-numerical-questions-cd640f880009)
-- **Lambda Numerics-Based Questions**: [Link to Lambda scenario questions](https://lisireddy.medium.com/aws-lambda-scenario-based-questions-86cb7e9207e1)
-
-#### AWS Lambda 🚩
-- **Lambda**: [Link to notes on Lambda](./Notebooks/AWSLambda.pdf)
-- **Lambda Numerics-Based Questions**: [Link to Lambda Numerics questions](https://lisireddy.medium.com/aws-lambda-numerical-questions-cd640f880009)
-- **Lambda Numerics-Based Questions**: [Link to Lambda scenario questions](https://lisireddy.medium.com/aws-lambda-scenario-based-questions-86cb7e9207e1)
-
-#### AWS Lambda 🚩
-- **Lambda**: [Link to notes on Lambda](./Notebooks/AWSLambda.pdf)
-- **Lambda Numerics-Based Questions**: [Link to Lambda Numerics questions](https://lisireddy.medium.com/aws-lambda-numerical-questions-cd640f880009)
-- **Lambda Numerics-Based Questions**: [Link to Lambda scenario questions](https://lisireddy.medium.com/aws-lambda-scenario-based-questions-86cb7e9207e1)
-
-#### AWS Lambda 🚩
-- **Lambda**: [Link to notes on Lambda](./Notebooks/AWSLambda.pdf)
-- **Lambda Numerics-Based Questions**: [Link to Lambda Numerics questions](https://lisireddy.medium.com/aws-lambda-numerical-questions-cd640f880009)
-- **Lambda Numerics-Based Questions**: [Link to Lambda scenario questions](https://lisireddy.medium.com/aws-lambda-scenario-based-questions-86cb7e9207e1)
-
-#### AWS Lambda 🚩
-- **Lambda**: [Link to notes on Lambda](./Notebooks/AWSLambda.pdf)
-- **Lambda Numerics-Based Questions**: [Link to Lambda Numerics questions](https://lisireddy.medium.com/aws-lambda-numerical-questions-cd640f880009)
-- **Lambda Numerics-Based Questions**: [Link to Lambda scenario questions](https://lisireddy.medium.com/aws-lambda-scenario-based-questions-86cb7e9207e1)
-
-#### AWS Lambda 🚩
-- **Lambda**: [Link to notes on Lambda](./Notebooks/AWSLambda.pdf)
-- **Lambda Numerics-Based Questions**: [Link to Lambda Numerics questions](https://lisireddy.medium.com/aws-lambda-numerical-questions-cd640f880009)
-- **Lambda Numerics-Based Questions**: [Link to Lambda scenario questions](https://lisireddy.medium.com/aws-lambda-scenario-based-questions-86cb7e9207e1)
-
-
+#### 🚩 AWS DynamoDB 
+- [Link to Notes on DynamoDB](./Notebooks/AWSLambda.pdf)
+- [Link to DynamoDB Numerics Questions](https://lisireddy.medium.com/aws-dynamodb-numerical-questions-e4ea3d08cb0d)
+- [Link to DynamoDB Scenario Questions](https://lisireddy.medium.com/aws-dynamodb-scenario-based-questions-1534d5fe812b)
 
 
 
