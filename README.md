@@ -147,7 +147,7 @@ Welcome to the AWS Developer Associate Exam Study Guide! This repository is desi
 
 #### 🚩 AWS EC2 (Elastic Compute Cloud)
 - [Link to Notes on EC2](./Notebooks/AWSEC2.pdf)
-- [Link to EC2 Numerics Questions]()
+- [Link to EC2 Numerics Questions](https://lisireddy.medium.com/aws-ec2-numerical-questions-ba6647488883)
 - [Link to EC2 Scenario Questions](https://lisireddy.medium.com/aws-ec2-scenario-based-questions-9b441db29da0)
 
 
@@ -156,15 +156,3 @@ Welcome to the AWS Developer Associate Exam Study Guide! This repository is desi
 
 
 
-
-
-
-
-
-## Usage
-
-To use the materials in this repository:
-
-**Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/aws-dev-associate-exam.git
